@@ -1,2 +1,2 @@
-One new updated line
+One new updated line, remote content
 second line
