@@ -2,4 +2,4 @@ One new line - new branch content
 second line
 remotely added
 4th line remote add
-5th line remote
+5th line local
