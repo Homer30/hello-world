@@ -1,3 +1,0 @@
-One new line - new branch content
-second line
-third line
