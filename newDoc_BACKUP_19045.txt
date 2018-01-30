@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+One new updated line, remote content and local
+second line
+remotely added
+=======
+One new line - new branch content
+second line
+third line
+>>>>>>> feature_x
